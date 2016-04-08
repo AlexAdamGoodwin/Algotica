@@ -12,7 +12,7 @@ margin: 0;
   margin: auto;
 padding-top: 2px;
 }
-a:link {
+a:link  {
     color: #FF4076;
 }
 a:visited {
